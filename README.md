@@ -12,11 +12,11 @@ Install Python 3.
 Save the script.
 Run the file.
 # Formula used
-carbon emission=gas amount*combustion efficiency*emission factor.
+carbon emission=gas amount x combustion efficiency x emission factor.
 # Example input
-gas amount(kg)=20
-gas type=ng
-combustion efficiency=0.9
+gas amount(kg)=20,
+gas type=ng,
+combustion efficiency=0.9.
 # Example output
-carbon emission(kg)=55.44
+carbon emission(kg)=55.44.
 
