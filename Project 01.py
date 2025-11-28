@@ -1,4 +1,4 @@
-# To create a Carbon Emission Calculator to measure Gas combustion in a Industry
+# To create a Carbon Emission Calculator to measure CO2 emission from gas combustion.
 gas_amount=float(input("Enter gas amount(kg): "))
 gas_type=input("Enter Gas Type: ""(ng or lpg?):")
 combustion_efficiency=float(input("Enter Combustion Efficiency: ")) #fraction value
@@ -15,6 +15,7 @@ else:
 
 CO2_emission= gas_amount*emission_factor*combustion_efficiency
 print("CO2_emission(kg):",CO2_emission)
+
 
 
 
