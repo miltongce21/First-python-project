@@ -8,11 +8,11 @@ Each gas types have corresponding emission factor value.
 Combustion efficiency value is in fraction value instead of percentage.
 easy to calculate.
 # How to Run
-Install Python 3
-Save the script
+Install Python 3.
+Save the script.
 Run the file.
 # Formula used
-carbon emission=gas amount*combustion efficiency*emission factor
+carbon emission=gas amount*combustion efficiency*emission factor.
 # Example input
 gas amount(kg)=20
 gas type=ng
